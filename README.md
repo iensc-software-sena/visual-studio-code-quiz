@@ -21,7 +21,7 @@
 
 ---
 
-2. ¿Visual Studio Code es multiplataforma?
+> 2. ¿Visual Studio Code es multiplataforma?
 
     A. No, solo funciona en Windows.
 
@@ -33,7 +33,7 @@
 
 ---
 
-3. ¿Visual Studio y Visual Studio Code son lo mismo?
+> 3. ¿Visual Studio y Visual Studio Code son lo mismo?
 
     A. Si, son la misma herramienta de desarrollo de software.
 
@@ -45,7 +45,7 @@
 
 ---
 
-4. ¿Con que lenguajes de programación puedo utilizar VSC?
+> 4. ¿Con que lenguajes de programación puedo utilizar VSC?
 
     A. Con casi cualquier lenguaje aunque no siempre es la mejor opción.
 
@@ -57,7 +57,7 @@
 
 ---
 
-5. ¿Visual Studio Code se puede personalizar a las necesidades del lenguaje?
+> 5. ¿Visual Studio Code se puede personalizar a las necesidades del lenguaje?
 
     A. Si, a través de extensiones para cada lenguaje.
 
@@ -69,7 +69,7 @@
 
 ---
 
-6. ¿Visual Studio Code es open source?
+> 6. ¿Visual Studio Code es open source?
 
     A. No, es un editor de código cerrado nadie puede contribuir o modificar.
 
@@ -81,7 +81,7 @@
 
 ---
 
-7. ¿Visual Studio Code es el editor más popular por los desarrolladores?
+> 7. ¿Visual Studio Code es el editor más popular por los desarrolladores?
 
     A. Si, la encuesta de Stack overflow así lo confirma.
 
@@ -93,7 +93,7 @@
 
 ---
 
-8. ¿Visual Studio Code es gratuito o de pago?
+> 8. ¿Visual Studio Code es gratuito o de pago?
 
     A. Es gratis, ya que es un proyecto open source.
 
@@ -105,7 +105,7 @@
 
 ---
 
-9. ¿Visual Studio Code requiere instalación?
+> 9. ¿Visual Studio Code requiere instalación?
 
     A. Si, debe descargarse desde la tienda de aplicaciones o desde el sitio oficial.
 
@@ -117,7 +117,7 @@
 
 ---
 
-10. ¿Es obligatorio utilizar Visual Studio Code para programar?
+> 10. ¿Es obligatorio utilizar Visual Studio Code para programar?
 
     A. Si, solo desde un editor como VSC se puede programar.
 
