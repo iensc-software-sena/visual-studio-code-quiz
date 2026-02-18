@@ -39,7 +39,7 @@
 
     B. No, Visual Studio es un IDE y Visual Studio Code un editor.
 
-    C. Si, ambos son productos de Microsoft .
+    C. Si, ambos son productos de Microsoft.
 
     C. No, Visual Studio es la versión anterior a Visual Studio Code.
 
